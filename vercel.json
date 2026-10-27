@@ -1,10 +1,10 @@
 {
   "rewrites": [
-    {"source": "/choreo-viewer/", "destination": "https://choreo-viewer.vercel.app/choreo-viewer/"},
+    {"source": "/choreo-viewer", "destination": "https://choreo-viewer.vercel.app/choreo-viewer"},
     {"source": "/choreo-viewer/:match*", "destination": "https://choreo-viewer.vercel.app/choreo-viewer/:match*"},
-    {"source": "/locker-formatter/", "destination": "https://locker-formatter.vercel.app/locker-formatter/"},
+    {"source": "/locker-formatter", "destination": "https://locker-formatter.vercel.app/locker-formatter"},
     {"source": "/locker-formatter/:match*", "destination": "https://locker-formatter.vercel.app/locker-formatter/:match*"},
-    {"source": "/", "destination": "https://3d-personal-site.vercel.app/"},
+    {"source": "/", "destination": "https://3d-personal-site.vercel.app"},
     {"source": "/:match*", "destination": "https://3d-personal-site.vercel.app/:match*"}
   ]
 }
