@@ -6,6 +6,8 @@
     {"source": "/locker-formatter/:match*", "destination": "https://locker-formatter.vercel.app/locker-formatter/:match*"},
     {"source": "/ti-stream", "destination": "https://ti-stream.vercel.app/ti-stream"},
     {"source": "/ti-stream/:match*", "destination": "https://ti-stream.vercel.app/ti-stream/:match*"},
+    {"source": "/doc-to-moodle", "destination": "https://doc-to-moodle-black.vercel.app/doc-to-moodle"},
+    {"source": "/doc-to-moodle/:match*", "destination": "https://doc-to-moodle-black.vercel.app/doc-to-moodle/:match*"},
     {"source": "/", "destination": "https://3d-personal-site.vercel.app"},
     {"source": "/:match*", "destination": "https://3d-personal-site.vercel.app/:match*"}
   ]
